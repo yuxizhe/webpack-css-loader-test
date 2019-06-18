@@ -1,0 +1,1 @@
+require('../src/styles/less/index.less');
